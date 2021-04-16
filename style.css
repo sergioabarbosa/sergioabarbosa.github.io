@@ -1,0 +1,60 @@
+<style>
+        h1 {
+            color:#3f37c9
+        }
+        
+
+        body{
+            background-color:oldlace ;
+        }
+        .grande{
+          font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+          font-size:xx-large;
+          
+
+        }
+
+        .list-style{
+            background-color: rebeccapurple;
+        }
+
+        p{
+            font-family: sans-serif;
+
+        }
+        .pictures{
+          border-radius: 50%;
+        }
+    </style>
+
+   /* <style>
+    body{
+      font-family: 'Montserrat', sans-serif;
+    }
+      p,li{
+        font-size: 16px;
+        color: id="475550"
+      }
+    .trybe-green{
+      color:green
+    }
+    .hero-title{
+      color:#0a7e51
+      font-weight:600;
+      font-size:45px;
+
+    }
+    .button{
+      background-color: #0a7e51;
+      size: 50px;
+      color:white;
+      padding: 15px 30px;
+      border-radius: 4px;
+      font-size: 16px;
+      line-height: 20px;
+      font-weight: 700;
+    }
+    .pictures{
+      border-radius: 50%;
+    }
+  </style>*/

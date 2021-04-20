@@ -95,6 +95,8 @@ body {
   position: relative;
 }
 
+
+
 .resume .icon i,
 .resume .resume_right .resume_hobby ul li i {
   position: absolute;
@@ -232,3 +234,7 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+
+/*Arquivos editados manualmente por sérgio A. Barbosa.
+Curriculum feito com a ajuda do canal do Youtube: https://www.youtube.com/watch?v=zAVhHHS_IH4. Arquivos styles.css e inderx.html baixados do GitHub:
+https://github.com/codingmarket07/Resume-CV-Design-N19 */
